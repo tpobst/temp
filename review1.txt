@@ -1,0 +1,95 @@
+Learn Python the hard way review
+Make a list of of every word and symbol and define them
+
+Ex1
+	1 print - prints what you tell it to print as output
+	2 " - encloses a string
+	
+Ex3
+	3 , - separates the string from the math for the print command
+	4 + - adds numbers
+	5 / - divides numbers
+	6 - - subtracts numbers
+	7 * - multiplies numbers
+	8 % - also divides but returns the remainder
+	9 < - returns true or false depending on the values on each side
+	10 > - similar to <
+	11 <= greater than or equal to 
+	12 >= less than or equal to
+	
+Ex4
+	13 = - assigns values to variables
+	14 printing a variable prints the value assigns to it
+	
+Ex5
+	15 # - starts a comment
+	16 % - in combination with %s or %d within a sting inputs a variable that is a string (%s) or a number (%d)
+	17 %s - the magic command to insert a string
+	18 %d - the magic command to insert a decimal
+	
+Ex6
+	19 + - used to combine strings 
+	
+Ex7 
+	20 * - you can multiply stings
+	21 , - used to print newlines of strings without a whole line space
+
+Ex8 
+	22 %r - python magic prints in python syntax
+	
+Ex9
+	23 seem to be able to insert variables into strings without magic (%)
+	24 """ - triple quotes allow for a lot of typing
+
+Ex10
+	25 \t - a tab space
+	26 \n - newline
+	27 \\ - seems to just print a \
+	
+Ex11
+	28 raw_input() - asks user for info and stores it in a variable
+
+Ex12
+	29 raw_input("some question") - prints the question and stores the answer
+
+Ex13
+	30 from sys import argv - Like taking a tool out of a toolbox
+	31 argv - unpacks variables, also asks for a file as input when running the script
+	
+Ex14
+	32 nothing new
+	
+Ex15
+	33 open(filename) - opens a file
+	34 x.read() - reads a file
+	35 x.close() - closes a file
+
+Ex16
+	36 open(filename, 'w') - opens a file in write mode
+	37 x.truncate() - clears a txt file of contents
+	38 x.write() - writes to a file
+
+Ex17 
+	39 from os.path import exists - can ask if a file exists
+	40 len() - returns the length of the file
+	
+Ex18
+	41 def - starts a function
+	42 *args - states args and has to be unpacked
+	43 : - ends the first line of a function
+	
+Ex19
+	44 when calling functions you can use math and variables
+	
+Ex20
+	45 x.seed() - seeks to byte position between the parentheses
+	46 x.readline() - reads one line
+
+
+	
+	
+	
+	
+	
+	
+	
